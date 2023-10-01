@@ -27,6 +27,7 @@
         align-items: flex-end;
         width: 100%;
         padding: 30px;
+        margin-top: -70px;
     }
     .botoes .botao img {
         width: 60px;
@@ -48,6 +49,7 @@
     {font-size: 24px;}
     .botoes{
         padding: 20px;
+        margin-top: -70px;
     }
     .botoes .botao img{
         width: 50px;
